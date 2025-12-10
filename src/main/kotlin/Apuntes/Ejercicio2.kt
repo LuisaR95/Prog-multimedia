@@ -1,3 +1,5 @@
+package Apuntes
+
 fun main() {
     println("== Calculadora ==")
 
@@ -13,7 +15,7 @@ fun main() {
     println("Segundo numero: ")
     val b = readLine()?.toDoubleOrNull() ?: return
 
-    // Calcular el resultado de la op
+    // Calcular el Apuntes.resultado de la op
 
     val resultado = when (operacion) {
         "+" -> a + b

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27fee81b-dffc-45e1-ac11-5ac256493763" name="Changes" comment="19/11/2025 apuntes Kodlin">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ejercicio2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Ejercicio2.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="https://github.com/LuisaR95/Prog-multimedia" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/src" value="master1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sergiio73&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LuisaR95/Prog-multimedia",
+    "accountId": "17ed0cb8-3b56-4e55-a48b-b4e58c05a872"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="36exLFBaNHCrG3EB4orpmxngLkk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.ApuntesKt.executor": "Run",
+    "Kotlin.Ejercicio2Kt.executor": "Run",
+    "Kotlin.GestorDeNotasKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-vcs.commit.finished": "1 file committed",
+    "Notification.DisplayName-DoNotAsk-vcs.share.cannot.create.repo": "Failed to create repository",
+    "Notification.DoNotAsk-vcs.commit.finished": "true",
+    "Notification.DoNotAsk-vcs.share.cannot.create.repo": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AlumnoAfternoon/IntellijProjects/Prog-multimedia",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.toDoOptions"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27fee81b-dffc-45e1-ac11-5ac256493763" name="Changes" comment="" />
+      <created>1765380781598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765380781598</updated>
+    </task>
+    <task id="LOCAL-00001" summary="17/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765381116204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381116204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765381363760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381363760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="25/11/2025 Ejercicios obligatorios segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381391727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381391727</updated>
+    </task>
+    <task id="LOCAL-00004" summary="25/11/2025 Ejercicios obligatorios segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381402966</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381402966</updated>
+    </task>
+    <task id="LOCAL-00005" summary="25/11/2025 Ejercicios obligatorios segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381418389</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381418389</updated>
+    </task>
+    <task id="LOCAL-00006" summary="25/11/2025 Ejercicios opcionales segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381436388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381436388</updated>
+    </task>
+    <task id="LOCAL-00007" summary="25/11/2025 Ejercicios opcionales segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381451417</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381451417</updated>
+    </task>
+    <task id="LOCAL-00008" summary="25/11/2025 Ejercicios opcionales segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381463689</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381463689</updated>
+    </task>
+    <task id="LOCAL-00009" summary="25/11/2025 Ejercicios obligatorios segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381478432</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381478432</updated>
+    </task>
+    <task id="LOCAL-00010" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765381545443</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381545443</updated>
+    </task>
+    <task id="LOCAL-00011" summary="25/11/2025 Ejercicios obligatorios segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381557287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381557287</updated>
+    </task>
+    <task id="LOCAL-00012" summary="25/11/2025 Ejercicios obligatorios segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381570010</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381570010</updated>
+    </task>
+    <task id="LOCAL-00013" summary="25/11/2025 Ejercicios obligatorios segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381582593</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381582593</updated>
+    </task>
+    <task id="LOCAL-00014" summary="25/11/2025 Ejercicios opcionales segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381597296</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381597296</updated>
+    </task>
+    <task id="LOCAL-00015" summary="25/11/2025 Ejercicios opcionales segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381612977</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381612977</updated>
+    </task>
+    <task id="LOCAL-00016" summary="25/11/2025 Ejercicios opcionales segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381627253</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381627253</updated>
+    </task>
+    <task id="LOCAL-00017" summary="25/11/2025 Ejercicios obligatorios segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765381639136</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381639136</updated>
+    </task>
+    <task id="LOCAL-00018" summary="25/11/2025 Ejercicios obligatorios segunda entrega">
+      <option name="closed" value="true" />
+      <created>1765382145493</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765382145493</updated>
+    </task>
+    <task id="LOCAL-00019" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765382285870</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1765382285870</updated>
+    </task>
+    <task id="LOCAL-00020" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765382545334</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1765382545334</updated>
+    </task>
+    <task id="LOCAL-00021" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765383039135</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1765383039135</updated>
+    </task>
+    <task id="LOCAL-00022" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765383075144</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1765383075144</updated>
+    </task>
+    <task id="LOCAL-00023" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765386426261</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1765386426261</updated>
+    </task>
+    <task id="LOCAL-00024" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765387458313</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1765387458313</updated>
+    </task>
+    <task id="LOCAL-00025" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765387640200</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1765387640200</updated>
+    </task>
+    <task id="LOCAL-00026" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765387714749</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1765387714749</updated>
+    </task>
+    <task id="LOCAL-00027" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765387846213</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1765387846213</updated>
+    </task>
+    <task id="LOCAL-00028" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765390078264</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1765390078264</updated>
+    </task>
+    <task id="LOCAL-00029" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765390459031</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1765390459031</updated>
+    </task>
+    <task id="LOCAL-00030" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765390783456</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1765390783456</updated>
+    </task>
+    <task id="LOCAL-00031" summary="19/11/2025 apuntes Kodlin">
+      <option name="closed" value="true" />
+      <created>1765390861927</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1765390861927</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CODE_SMELLS_PROFILE" value="Project Default" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
+    <MESSAGE value="17/11/2025 apuntes Kodlin" />
+    <MESSAGE value="25/11/2025 Ejercicios opcionales segunda entrega" />
+    <MESSAGE value="25/11/2025 Ejercicios obligatorios segunda entrega" />
+    <MESSAGE value="19/11/2025 apuntes Kodlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="19/11/2025 apuntes Kodlin" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
